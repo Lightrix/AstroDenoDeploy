@@ -2,7 +2,7 @@
 	"name": "@playform/deploy",
 	"version": "0.0.1",
 	"private": true,
-	"description": "📄 Deploy —",
+	"description": "Deploy 📄",
 	"keywords": [
 		"astro",
 		"deno",
